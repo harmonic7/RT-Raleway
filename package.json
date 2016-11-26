@@ -1,0 +1,26 @@
+{
+  "name": "raleway-webfont-alt-w",
+  "version": "1.0.0",
+  "description": "Forked from Ronik Design's RT-Raleway repository simply to provide an npm package. RTRaleway is an alternate version of Raleway that utilizes the stylistic alternates of the \"A\" and \"W\" as default glyphs. Additionally, oldstyle or lowercase numerals are replace with lining numberals as the default figure style.",
+  "main": "webfonts/RTRaleway All Web Fonts/stylesheet.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harmonic7/RT-Raleway.git"
+  },
+  "keywords": [
+    "raleway",
+    "font",
+    "alternate",
+    "w",
+    "rt"
+  ],
+  "author": "Matt McIerney, Pablo Impallari, Rodrigo Fuenzalida",
+  "license": "MIT AND OFL-1.1",
+  "bugs": {
+    "url": "https://github.com/ronik-design/RT-Raleway/issues"
+  },
+  "homepage": "https://github.com/ronik-design/RT-Raleway#readme"
+}
